@@ -41,6 +41,7 @@ body {
 .col-33 {
     width: 32%;
     margin: 5px;
+    position: relative;
 
 }
 
@@ -129,6 +130,22 @@ padding-top: 40px;
 p{
     line-height: 15px;
     font-weight: bold;
+}
+
+/* DECORAZIONI */
+
+.heart{
+    z-index: 2;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 8px;
+    text-align: center;
+    line-height: 35px;
 }
 
 
