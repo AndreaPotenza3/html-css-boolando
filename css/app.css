@@ -85,6 +85,10 @@ body {
     justify-content: center;
 }
 
+.main-logo a{
+    text-align: center;
+}
+
 .navbar a{
     color: white;
     font-weight: bold;
