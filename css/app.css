@@ -148,6 +148,10 @@ p{
     line-height: 35px;
 }
 
+.heart:hover{
+    color: red;
+}
+
 .discount{
     z-index: 2;
     background-color: red;
@@ -175,22 +179,9 @@ p{
 }
 
 .material.last{
-    z-index: 2;
-    background-color: green;
-    position: absolute;
     left: 0px;
-    bottom: 80px;
-    font-size: 10px;
-    color: white;
-    font-weight: bold;
-    display: inline-block;
-    padding: 2px 8px;
-}
-
-
-
-
-
+    }
+    
 /* DEBUG */
 
 .debug {
